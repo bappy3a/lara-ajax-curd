@@ -1,0 +1,16 @@
+table thead th,table tr td{
+	text-align: center;
+}
+.pull-right{
+    float: right;
+    margin-top: -7px;
+}
+.load{
+    position: fixed;
+    left: 35%;
+    top: 10%;
+    text-align: center;
+    z-index: 9999;
+    margin: auto;
+    display: none;
+}
